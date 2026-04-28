@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+railstack-server/.env
+
+# Node
+railstack-client/node_modules/
+railstack-client/.next/
+railstack-client/.env.local
+
+# Docker
+.DS_Store
